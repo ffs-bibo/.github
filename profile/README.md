@@ -9,3 +9,17 @@ Das Ziel in der Ferne ist ein Rust-basierter Dienst der eine Datenbank vorhält 
 * [Schule](https://www.ffsfrankfurt.de)
 * [Förderverein](https://www.fv-ffs.de/)
 * [SBA-Katalogsuche](https://sbakatalog.stadtbuecherei.frankfurt.de/A-F/Friedrich-Fr%C3%B6bel-Schule)
+
+# Weiterführende Links
+
+* Deutsche Nationalbibliothek
+  * [deutsche-nationalbibliothek](https://github.com/deutsche-nationalbibliothek)-Github-Org
+    * [deutsche-nationalbibliothek/dnblab](https://github.com/deutsche-nationalbibliothek/dnblab)
+  * dnblab:
+    * https://www.dnb.de/dnblabtutorials
+    * https://www.dnb.de/sru (Search & Retrieve via URL) via CQL (Contextual Query Language)
+      * bspw. https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=num=9783954702039&recordSchema=oai_dc
+    * https://www.dnb.de/metadatenbezugswege
+  * https://portal.dnb.de/ (Datenshop usw.)
+  * https://sta.dnb.de/wiki/Hauptseite (Wiki, aber nur bedingt für unseren Anwendungsfall geeignet)
+* https://github.com/mloesch/sickle
